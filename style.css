@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+
+/* navigation menu styles */
+nav a{ 
+  padding: 10px 10px;
+  background-color: gray; 
+}
+
+/*<section id="featured-property">*/
+p{
+  width: 800px ;
+  align-items: center;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*<figure>*/
+img{
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  display: block;
+}
+
+/*<header>*/
+h1{
+  text-align: center;
+}
+
+/*<figure>*/
+figcaption{
+  text-align: center;
+  font-size: smaller;
+}
+
+/*<section id="details">*/
+div{
+  float: left;
+  width:  25%;
+  background-color: red;
+}
